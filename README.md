@@ -2,4 +2,7 @@
 
 This is source code for my Medium article. In the article all the code has been explained step-by-step.
 
-Reference: 
+References
+
+Medium paper:
+Dataset: https://www.kaggle.com/andonians/random-linear-regression
